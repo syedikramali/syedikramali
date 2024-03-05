@@ -35,5 +35,5 @@ With over 7+ years of hands-on experience in fast-paced startup and SME environm
  love to Travel 
 ---
 
-> "Coding is my life" Author Son of Ali
+> "Great power comes with great responsibility" Author You Know Already
 
