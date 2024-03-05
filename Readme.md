@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ali 👋
 
 ## Senior Software Engineer | Tech Innovator | Open Source Contributor
 
