@@ -31,7 +31,7 @@ With over 7+ years of hands-on experience in fast-paced startup and SME environm
 
 ### ⚡ Fun fact
 
- Gamer 🎮 and a big fan Real Madrid soccer team ⚽
+ Gamer 🎮 and a big fan of Real Madrid soccer team ⚽
  love to Travel 
 ---
 
