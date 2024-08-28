@@ -22,7 +22,6 @@ With over 7+ years of hands-on experience in fast-paced startup and SME environm
 ### 🌱 I’m currently learning
 
 - Generate AI
-- Cloud
 
 ### 📫 How to reach me
 
