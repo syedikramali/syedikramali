@@ -6,9 +6,9 @@ With over 7+ years of hands-on experience in fast-paced startup and SME environm
 
 ### 🌟 About Me
 
-- 🚀 I've contributed to image to code open-source projects
+- 🚀 Love to code and automate, I like to contribute to open-source projects
 - 📈 Developed and implemented a CI/CD pipeline, reducing deployment time from hours to minutes and significantly increasing deployment frequency..
-- 📚 Continuous learner, currently exploring Generative AI and Cloud
+- 📚 Continuous learner, currently exploring Generative AI
 - 🌍 Based in California, open to collaborate on projects worldwide.
 
 ### 🛠 Skills
