@@ -12,6 +12,10 @@ I’ve built scalable microservices, designed AI-driven solutions like TROY Voic
 - 📚 Continuous learner, love Generative AI
 - 🌍 Based in Chicago, open to collaborate on projects worldwide.
 
+🏆 Received a shout-out from the CEO on Instagram for delivering high-impact work and going above and beyond on a critical project.
+<img src="https://github.com/user-attachments/assets/104aa29f-1c1e-4ed4-8ce8-db52675cd0c0" alt="My Image" width="100"/>
+
+
 ### 🛠 Skills
 
 - **Programming Languages**: Python, JavaScript, Typescript
