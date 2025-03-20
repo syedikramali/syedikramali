@@ -1,27 +1,25 @@
 # Hello, I'm Ali 👋
 
 ## Senior Software Engineer | Tech Innovator | Open Source Contributor
+A Full Stack Engineer with 8+ years of experience building AI-powered applications. I specialize in React, TypeScript, Node.js, Python (FastAPI, Django), and cloud platforms like AWS, Azure, and GCP.
 
-With over 7+ years of hands-on experience in fast-paced startup and SME environments, I have honed my skills in **software development**, **system architecture**, and **team leadership**. I specialize in React, NodeJs, Python, bringing innovative solutions to complex challenges. My passion lies in building scalable systems and contributing to the tech community through open source projects.
+I’ve built scalable microservices, designed AI-driven solutions like TROY Voice for multilingual automation, and optimized CI/CD pipelines for seamless deployments. Passionate about AI, games, soccer, and building kick-a** products, I thrive on solving complex challenges.
+
 
 ### 🌟 About Me
 
-- 🚀 Love to code and automate, I like to contribute to open-source projects
-- 📈 Developed and implemented a CI/CD pipeline, reducing deployment time from hours to minutes and significantly increasing deployment frequency..
-- 📚 Continuous learner, currently exploring Generative AI
-- 🌍 Based in California, open to collaborate on projects worldwide.
+- 🚀 Love to code and automate
+- 📚 Continuous learner, love Generative AI
+- 🌍 Based in Chicago, open to collaborate on projects worldwide.
 
 ### 🛠 Skills
 
-- **Programming Languages**: Python, JavaScript, Typescript 
+- **Programming Languages**: Python, JavaScript, Typescript
+- **AI & Machine Learning**: Generative AI, LLMs, NLP, TensorFlow, PyTorch, OpenAI APIs
 - **Frameworks & Technologies**: React, Node.js, Django, Docker, Terraform, Kubernetes
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms**: Git, Ansible, AWS, Azure
+- **Tools & Platforms**: Git, Ansible, AWS, Azure, GCP
 - **Methodologies**: Agile, Scrum, TDD, Continuous Integration & Deployment
-
-### 🌱 I’m currently learning
-
-- Generate AI
 
 ### 📫 How to reach me
 
