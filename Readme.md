@@ -10,7 +10,7 @@ I’ve built scalable microservices, designed AI-driven solutions like TROY Voic
 
 - 🚀 Love to code and automate
 - 📚 Continuous learner, love Generative AI
-- 🌍 Based in Chicago, open to collaborate on projects worldwide.
+- 🌍 Based in California, open to collaborate on projects worldwide.
 
 🏆 Received a shout-out from the CEO on Instagram for delivering high-impact work and going above and beyond on a critical project.
 
@@ -35,7 +35,3 @@ I’ve built scalable microservices, designed AI-driven solutions like TROY Voic
 
  Gamer 🎮 and a big fan of Real Madrid soccer team ⚽
  love to Travel 
----
-
-> "Great power comes with great responsibility" Author You Know Already
-
